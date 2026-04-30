@@ -1,0 +1,29 @@
+[
+  {
+    "id": "ziwei-radio",
+    "title": "ziwei radio",
+    "description": "私人电台。连着网易云歌单，AI 主播介绍每首歌，背景有粒子随音乐律动。",
+    "url": "https://zhouziwei.online/radio",
+    "github": "",
+    "tags": ["Next.js", "Three.js", "WebAudio", "AI"],
+    "date": "2026-04"
+  },
+  {
+    "id": "release-dashboard",
+    "title": "学练机发版管理平台",
+    "description": "给硬件团队用的发版看板。可以追踪各机型（S6/S2/S1/E1）的版本状态、发版计划和历史记录，替代了之前用飞书表格管理的方式。",
+    "url": "http://www.zhouziwei.online/release-dashboard.html",
+    "github": "",
+    "tags": ["vibe coding", "产品工具", "HTML"],
+    "date": "2026-04"
+  },
+  {
+    "id": "kb-assistant",
+    "title": "产品知识库助手",
+    "description": "基于产品文档构建的 AI 问答工具。可以用自然语言查产品逻辑、功能说明，减少重复翻文档的时间。",
+    "url": "http://www.zhouziwei.online/kb-assistant.html",
+    "github": "",
+    "tags": ["vibe coding", "RAG", "AI", "产品工具"],
+    "date": "2026-04"
+  }
+]
