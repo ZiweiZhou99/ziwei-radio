@@ -25,5 +25,14 @@
     "github": "",
     "tags": ["vibe coding", "RAG", "AI", "产品工具"],
     "date": "2026-04"
+  },
+  {
+    "id": "china-travel",
+    "title": "China Journey",
+    "description": "面向北美旅行者的中国私人定制游网站。签证协助、英文导游、USD 定价，打消北美客户的出行顾虑。",
+    "url": "https://zhouziwei.online/china-travel",
+    "github": "",
+    "tags": ["vibe coding", "Next.js", "旅游", "Landing Page"],
+    "date": "2026-04"
   }
 ]
